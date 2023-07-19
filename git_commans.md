@@ -16,6 +16,6 @@ git add: Guarda los cambios parcialmente antes de generar el commit
 
 git commit: Se utiliza para guardar los cambios en el proyecto desde la terminal
 
-git push: Envia los nuevos cambios a github
+git push: Envia los nuevos cambios a github automaticamente
 
-git merge:
+git merge: une dos o mas historias de desarrollo

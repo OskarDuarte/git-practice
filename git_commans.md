@@ -4,18 +4,18 @@ git status: Este comando se usa para obtener el estado actual del repositorio
 
 git clone: Este comando se usa para clonar el proyecto desde la terminal
 
-git pull:
+git pull: Toma los cambios recientes de github desde mi terminal
 
-git checkout:
+git checkout: me permite crear una nueva rama del proyecto o explorar alguna ya creada
 
-git log:
+git log: Muestra el listado de los commit del proyecto por la rama
 
-git branch:
+git branch: Lista las ramas del proyecto
 
-git add:
+git add: Guarda los cambios parcialmente antes de generar el commit
 
-git commit:
+git commit: Se utiliza para guardar los cambios en el proyecto desde la terminal
 
-git push:
+git push: Envia los nuevos cambios a github
 
 git merge:
